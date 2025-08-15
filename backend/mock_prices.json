@@ -1,0 +1,12 @@
+{
+  "StoreA": {
+    "milk": 2.99,
+    "bread": 1.99,
+    "eggs": 3.49
+  },
+  "StoreB": {
+    "milk": 3.49,
+    "bread": 1.49,
+    "eggs": 3.29
+  }
+}
